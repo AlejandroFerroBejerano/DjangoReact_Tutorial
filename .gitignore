@@ -62,6 +62,7 @@ db.sqlite3
 db.sqlite3-journal
 tasks/*
 *__pycache__/*
+django_crud_api/*/*.pyc
 
 # Flask stuff:
 instance/
